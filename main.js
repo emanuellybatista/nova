@@ -17,7 +17,8 @@ depara com uma nova tecnologia: um chat que consegue
 responder a todas as dúvidas que uma pessoa pode ter.
 
 Além disso, o chat também gera imagens e áudios hiper-
-realistas. Qual o seu primeiro pensamento?”,
+realistas. Qual o seu primeiro pensamento?”
+]
 
 alternativas: [
 {
